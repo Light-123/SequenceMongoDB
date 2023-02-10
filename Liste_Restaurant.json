@@ -1,0 +1,3712 @@
+[{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf0a"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "3c371a32d6cf609da9dd0ec20a1ded16d0826c39",
+  "fields": {
+    "descriptif": "Formule le midi en semaine : 14 euros et 18 euros\n4 menus : de 28 euros à 42 euros\nMenu enfant (- 12 ans) : à partir de 9,50 euros\nA la carte : de 12 euros à 25 euros",
+    "longitude": 0.6249332400000001,
+    "mail": "imagine@fbrg.fr",
+    "adresse_3": "Lac de Passeligne - Pont Bourbonnais",
+    "decription": "Situé aux portes d?Agen, au bord du lac Passeligne, Imagine vous invite à savourer sa cuisine axée sur les produits de la mer, mais pas uniquement ! L?équipe du restaurant vous garantit une cuisine simple et pleine de fraîcheur. Imagine offre la p",
+    "site_inter": "www.uneaubergeengascogne.com",
+    "latitude": 44.1749404,
+    "commune": "BOE",
+    "telephon": "+33 5 53 68 58 16",
+    "raison_soc": "Imagine",
+    "geo_shape": {
+      "coordinates": [
+        0.6249332400000001,
+        44.17494039999998
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert toute l'année, du mardi au dimanche midi. Fermé le dimanche soir et le lundi.",
+    "code_posta": 47550,
+    "geo_point_2d": [
+      44.17494039999998,
+      0.6249332400000001
+    ]
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6249332400000001,
+      44.17494039999998
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 2
+    }
+  ],
+  "heure_ouverture": "15H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf0b"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "2ca205d417eb170effe9209f9bfcbef1044352ed",
+  "fields": {
+    "raison_soc": "Osaka",
+    "geo_shape": {
+      "coordinates": [
+        0.6203052,
+        44.2079206
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert toute l'année, du lundi au samedi.",
+    "code_posta": 47000,
+    "adresse_2": "38 boulevard Sylvain Dumont",
+    "longitude": 0.6203052,
+    "geo_point_2d": [
+      44.2079206,
+      0.6203052
+    ],
+    "decription": "Situé en centre-ville, face à la gare d?Agen, venez faire une escale au pays du soleil levant au restaurant japonais Osaka. Sa carte variée et riche vous propose sushis, makis, sashimis, brochettes de viandes et poissons et de nombreux plats traditio",
+    "site_inter": "http://osaka-agen.fr",
+    "latitude": 44.2079206,
+    "commune": "AGEN",
+    "telephon": "+33 5 53 66 31 76"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6203052,
+      44.2079206
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 1
+    }
+  ],
+  "heure_ouverture": "10H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf0c"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "a5fd4dba137bb6e1c5d47c98cef90b6d38d48243",
+  "fields": {
+    "descriptif": "Menus du midi : de 15,50 euros à 23,50 euros\nMenus du soir : de 26,00 euros à 38,00 euros",
+    "longitude": 0.6127329,
+    "decription": "Teo Japon vous invite à vous évader en découvrant les saveurs du pays du soleil levant. Le restaurant sert une cuisine traditionnelle japonaise dans des Bento (boîtes à compartiments typiques) ainsi que des assiettes de sushis, de poisson et de vian",
+    "site_inter": "http://www.teojapon.com/",
+    "latitude": 44.2003452,
+    "commune": "AGEN",
+    "telephon": "+33 9 52 40 30 40 ou +33 6 09 32 10 04",
+    "raison_soc": "Teo Japon",
+    "geo_shape": {
+      "coordinates": [
+        0.6127329,
+        44.2003452
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert le  midi du mardi au vendredi, ouvert le soir du jeudi au samedi. Fermé le dimanche et le lundi. Possibilité de réservation de l'établissement pour soirées et événements privés.",
+    "code_posta": 47000,
+    "adresse_2": "3 bis rue Palissy",
+    "geo_point_2d": [
+      44.2003452,
+      0.6127329
+    ]
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6127329,
+      44.2003452
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 0
+    }
+  ],
+  "heure_ouverture": "14H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf0d"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "09fb23f0789be5d62df043b575265f8f950a6402",
+  "fields": {
+    "raison_soc": "La Cinquième Saison",
+    "geo_shape": {
+      "coordinates": [
+        0.6200154,
+        44.206704
+      ],
+      "type": "Point"
+    },
+    "code_posta": 47000,
+    "adresse_2": "14 place du Maréchal Foch",
+    "longitude": 0.6200154,
+    "geo_point_2d": [
+      44.206704,
+      0.6200154
+    ],
+    "decription": "A deux pas de la gare, la crêperie La Cinquième Saison est nichée dans une petite rue donnant directement sur la cathédrale Saint-Caprais d?Agen, vous offrant un cadre historique remarquable. Cette crêperie vous invite à goûter ses galettes de sa",
+    "latitude": 44.206704,
+    "commune": "AGEN",
+    "telephon": "+33 5 53 95 87 11"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6200154,
+      44.206704
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 3
+    }
+  ],
+  "heure_ouverture": "10H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf0e"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "00b507fdb3fe0acccadadd7a25b55b28053559b4",
+  "fields": {
+    "raison_soc": "La Marmite Fleurie",
+    "geo_shape": {
+      "coordinates": [
+        0.668438,
+        44.186116
+      ],
+      "type": "Point"
+    },
+    "code_posta": 47240,
+    "longitude": 0.668438,
+    "adresse_3": "ZAC Le Redon",
+    "geo_point_2d": [
+      44.186116,
+      0.668438
+    ],
+    "decription": "A 10 minutes d?Agen, sur la commune de Bon-Encontre, venez goûter à une cuisine traditionnelle où tout est fait maison au restaurant La Marmite Fleurie. Trouvez dans ce lieu chaleureux des spécialités locales ainsi que des plats typiques espagnols.",
+    "latitude": 44.186116,
+    "commune": "BON-ENCONTRE",
+    "telephon": "+33 5 53 47 79 22"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.668438,
+      44.186116
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 4
+    }
+  ],
+  "heure_ouverture": "14H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf0f"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "9f21b549adf382e0c7b3e73254bad15d885bf08f",
+  "fields": {
+    "raison_soc": "Le Caoulet",
+    "geo_shape": {
+      "coordinates": [
+        0.6426759,
+        44.23724739999999
+      ],
+      "type": "Point"
+    },
+    "code_posta": 47510,
+    "adresse_2": "53 avenue du Caoulet",
+    "longitude": 0.6426759,
+    "geo_point_2d": [
+      44.23724739999999,
+      0.6426759
+    ],
+    "latitude": 44.2372474,
+    "commune": "FOULAYRONNES",
+    "telephon": "+33 5 53 95 62 19"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6426759,
+      44.23724739999999
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 4
+    }
+  ],
+  "heure_ouverture": "18H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf10"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "2400c54048977fe65fa8328f0d0de4c78a0fe222",
+  "fields": {
+    "raison_soc": "Le Colonial Café",
+    "geo_shape": {
+      "coordinates": [
+        0.612072,
+        44.2031361
+      ],
+      "type": "Point"
+    },
+    "code_posta": 47000,
+    "adresse_2": "10 avenue du Général De Gaulle",
+    "longitude": 0.612072,
+    "geo_point_2d": [
+      44.2031361,
+      0.612072
+    ],
+    "decription": "Situé dans le centre-ville d?Agen, Le Colonial Café vous sert des plats simples, conviviaux et traditionnels. Dans une atmosphère chaleureuse et festive, profitez le midi de sa formule brasserie. Une salle privée pour les repas de groupe et autres ?",
+    "site_inter": "www.colonial-cafe.net",
+    "latitude": 44.2031361,
+    "commune": "AGEN",
+    "telephon": "+33 5 53 48 28 10"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.612072,
+      44.2031361
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 2
+    }
+  ],
+  "heure_ouverture": "14H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf11"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "a8d5f834c945f071e7db358e1736d4d7e72b3252",
+  "fields": {
+    "raison_soc": "L'Imprévu",
+    "geo_shape": {
+      "coordinates": [
+        0.6221822,
+        44.2040808
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert toute l'année, du mardi au samedi midi et soir et le lundi midi.",
+    "code_posta": 47000,
+    "descriptif": "Menu adulte : 14 euros, 18 euros, 22 euros et 29 euros\nCarte",
+    "adresse_2": "7 rue Camille Desmoulin",
+    "longitude": 0.6221822,
+    "geo_point_2d": [
+      44.2040808,
+      0.6221822
+    ],
+    "decription": "Installé à Agen, le restaurant L?Imprévu vous reçoit dans sa salle à l?ambiance chaleureuse locale ! Trouvez dans votre assiette des plats typiques du Sud-ouest, avec notamment un menu proposant la découverte des produits du Lot-et-Garonne (foie",
+    "latitude": 44.2040808,
+    "commune": "AGEN",
+    "telephon": "+33 5 53 66 39 31"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6221822,
+      44.2040808
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 4
+    }
+  ],
+  "heure_ouverture": "10H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf12"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "88a8c22aeb763ae38e492721a1ff510e1b823dd2",
+  "fields": {
+    "raison_soc": "Carré Gourmand",
+    "geo_shape": {
+      "coordinates": [
+        0.6639861,
+        44.1791126
+      ],
+      "type": "Point"
+    },
+    "code_posta": 47550,
+    "adresse_2": "2 rue Montalembert",
+    "longitude": 0.6639861,
+    "mail": "carregourmand47@orange.fr",
+    "geo_point_2d": [
+      44.1791126,
+      0.6639861
+    ],
+    "decription": "A deux pas d?Agen, le restaurant Carré Gourmand vous invite à venir passer un moment gastronomique agréable dans un cadre « rustique » modernisé. Profitez de l?ambiance conviviale et gourmande qui règne dans les 3 salles du restaurant. Apprécie",
+    "site_inter": "www.carregourmand.com",
+    "latitude": 44.1791126,
+    "commune": "BOE",
+    "telephon": "+33 5 53 95 22 22"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6639861,
+      44.1791126
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 4
+    }
+  ],
+  "heure_ouverture": "10H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf13"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "7ee71c32596eb16ac3483a5bb2b494c74517049f",
+  "fields": {
+    "descriptif": "Formule midi : 13,50 euros (entrée/plat/dessert)\nA la carte :\n- entrée : de 10 à 16 euros\n- plat : de 11 à 18 euros\n- dessert : de 4 à 8 euros",
+    "longitude": 0.6217372999999999,
+    "decription": "Située près de la gare d?Agen, la brasserie/pizzeria La Cucina vous invite à découvrir les saveurs de l?Italie. Le chef prépare des pizzas et des plats avec des ingrédients frais de qualité. Après un accueil simple et chaleureux, installez vous",
+    "latitude": 44.2060761,
+    "commune": "AGEN",
+    "telephon": "+33 9 54 58 44 49",
+    "raison_soc": "La Cucina",
+    "geo_shape": {
+      "coordinates": [
+        0.6217372999999999,
+        44.20607609999998
+      ],
+      "type": "Point"
+    },
+    "informat_1": "Ouvert de mai à novembre le lundi, mercredi soir, jeudi vendredi, samedi et dimanche midi de 12h à 14h30 et de 19h à 22h30.\nOuvert de décembre à avril le lundi midi, mercredi midi, jeudi, vendredi, samedi et dimanche midi de 12h à 14h30 et de 19h ?",
+    "informatio": "Ouvert de mai à novembre le lundi, mercredi soir, jeudi vendredi, samedi et dimanche midi de 12h à 14h30 et de 19h à 22h30.\nOuvert de décembre à avril le lundi midi, mercredi midi, jeudi, vendredi, samedi et dimanche midi de 12h à 14h30 et de 19h ?",
+    "code_posta": 47000,
+    "descript_1": "Formule midi : 13,50 euros (entrée/plat/dessert)\nA la carte :\n- entrée : de 10 à 16 euros\n- plat : de 11 à 18 euros\n- dessert : de 4 à 8 euros",
+    "adresse_2": "25 rue Emile Sentini",
+    "geo_point_2d": [
+      44.20607609999998,
+      0.6217372999999999
+    ]
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6217372999999999,
+      44.20607609999998
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 1
+    }
+  ],
+  "heure_ouverture": "15H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf14"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "4547de7025fbcf3791883a91daeaab43e0768ec6",
+  "fields": {
+    "raison_soc": "L'Etable",
+    "geo_shape": {
+      "coordinates": [
+        0.6101785,
+        44.20248939999998
+      ],
+      "type": "Point"
+    },
+    "code_posta": 47000,
+    "adresse_2": "41bis Péristyle du Gravier",
+    "longitude": 0.6101785,
+    "mail": "dominique.ferrero@free.fr",
+    "geo_point_2d": [
+      44.20248939999998,
+      0.6101785
+    ],
+    "decription": "Le restaurant L?Etable vous invite à venir découvrir la cuisine du Lot-et-Garonne, en salle ou bien sur sa terrasse donnant sur le cadre agréable de l?Esplanade du Gravier. Foie gras, magret et confit de canard accompagnés des frites de la maison f",
+    "latitude": 44.2024894,
+    "commune": "AGEN",
+    "telephon": "+33 5 53 47 68 79"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6101785,
+      44.20248939999998
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 3
+    }
+  ],
+  "heure_ouverture": "18H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf15"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "a2115440cbf95246362209f4d01e9bdf3d1255e2",
+  "fields": {
+    "longitude": 0.6120112,
+    "mail": "pubaubureauagen@wanadoo.fr",
+    "decription": "A deux pas du centre-ville d?Agen, prenez une pause Au Bureau, que ce soit pour déjeuner ou pour boire un verre entre amis. Ce pub-brasserie vous garantit une ambiance détendue et conviviale, dans un décor dépaysant s?inspirant de l?univers des pu",
+    "site_inter": "www.au-bureau.fr",
+    "latitude": 44.204015,
+    "commune": "AGEN",
+    "telephon": "+33 5 53 68 46 46",
+    "raison_soc": "Au Bureau",
+    "geo_shape": {
+      "coordinates": [
+        0.6120112,
+        44.204015
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert toute l'année.",
+    "code_posta": 47000,
+    "adresse_2": "8 place Jasmin",
+    "geo_point_2d": [
+      44.204015,
+      0.6120112
+    ]
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6120112,
+      44.204015
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 2
+    }
+  ],
+  "heure_ouverture": "18H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf16"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "4133ecb614557df1b63b1f2d25c1f0fa69a92b3c",
+  "fields": {
+    "descriptif": "Menu adulte : de 17 à 34 euros\nMenu enfant (jusqu'à 12 ans) : de 9 à 14 euros",
+    "longitude": 0.48835515,
+    "mail": "contact@le-prince-noir.com",
+    "decription": "En plein coeur du Sud-ouest, l?hôtel-restaurant Le Prince Noir est un ancien monastère du XVIIème siècle transformé en un établissement de charme. Le chef donne un soupçon de modernité aux grands classiques de la cuisine française. Il vous prop",
+    "site_inter": "www.le-prince-noir.com",
+    "marques_et": "Maître Restaurateur\nQualité Tourisme\nSourire du Lot-et-Garonne",
+    "latitude": 44.2133407,
+    "commune": "SERIGNAC-SUR-GARONNE",
+    "telephon": "+33 5 53 68 74 30",
+    "raison_soc": "Le Prince Noir",
+    "geo_shape": {
+      "coordinates": [
+        0.48835515,
+        44.21334069999999
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert du 5 janvier au 20 décembre.",
+    "code_posta": 47310,
+    "adresse_2": "6 rue de Menjoulan",
+    "geo_point_2d": [
+      44.21334069999999,
+      0.48835515
+    ]
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.48835515,
+      44.21334069999999
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 1
+    }
+  ],
+  "heure_ouverture": "15H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf17"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "9bd21390414ab8b959e2d066aef9f2ad8bfdd88b",
+  "fields": {
+    "raison_soc": "Le Yaka",
+    "geo_shape": {
+      "coordinates": [
+        0.6106714,
+        44.20251069999998
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert toute l'année, le lundi et du jeudi au dimanche. Fermé le mardi et le mercredi.",
+    "code_posta": 47000,
+    "descriptif": "Se renseigner",
+    "adresse_2": "81 Péristyle du Gravier",
+    "longitude": 0.6106714,
+    "geo_point_2d": [
+      44.20251069999998,
+      0.6106714
+    ],
+    "decription": "A proximité du péristyle du Gravier d?Agen, lieu de promenade agréable le long de la Garonne, le Yaka vous invite à savourer sa cuisine traditionnelle proposant plats typiques du Sud-ouest ainsi que de délicieuses salades. Découvrez également ses",
+    "latitude": 44.2025107,
+    "commune": "AGEN",
+    "telephon": "+33 5 53 47 69 38"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6106714,
+      44.20251069999998
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 0
+    }
+  ],
+  "heure_ouverture": "15H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf18"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "6b6959c41728fadd3ca81e759152e778f16ab7aa",
+  "fields": {
+    "raison_soc": "Buffalo Grill",
+    "geo_shape": {
+      "coordinates": [
+        0.6441101,
+        44.1749628
+      ],
+      "type": "Point"
+    },
+    "code_posta": 47550,
+    "adresse_2": "330 rue de Gardes",
+    "longitude": 0.6441101,
+    "mail": "AGEN@buffalo-grill.fr",
+    "geo_point_2d": [
+      44.1749628,
+      0.6441101
+    ],
+    "decription": "Au sud d?Agen, venez apprécier l?atmosphère décontractée du Buffalo Grill de Boé. Dans un décor vous plongeant dans l?univers du Far West, le b?uf tient la vedette dans les multiples plats et menus proposés. L?équipe de Buffalo Grill sélect",
+    "site_inter": "www.buffalo-grill.fr",
+    "latitude": 44.1749628,
+    "commune": "BOE",
+    "telephon": "+33 5 53 96 73 25"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6441101,
+      44.1749628
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 4
+    }
+  ],
+  "heure_ouverture": "10H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf19"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "e03302c475a62342a10c2dfae7f9cb64f404e17d",
+  "fields": {
+    "raison_soc": "La Licorne",
+    "geo_shape": {
+      "coordinates": [
+        0.559808,
+        44.17506859999999
+      ],
+      "type": "Point"
+    },
+    "code_posta": 47310,
+    "adresse_2": "14 place Charles de Gaulle",
+    "longitude": 0.559808,
+    "mail": "eric.labertrandie@wanadoo.fr",
+    "geo_point_2d": [
+      44.17506859999999,
+      0.559808
+    ],
+    "decription": "Au c?ur de Roquefort et à tout juste 1 km du parc d?attractions Walibi, Eric Labertrandie et son équipe vous reçoivent dans le cadre chaleureux du restaurant La Licorne. Le chef vous fait découvrir sa cuisine traditionnelle du Sud-ouest et renouvè",
+    "site_inter": "www.restaurant-la-licorne.com",
+    "latitude": 44.1750686,
+    "commune": "ROQUEFORT",
+    "telephon": "+33 5 53 68 21 96"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.559808,
+      44.17506859999999
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 0
+    }
+  ],
+  "heure_ouverture": "14H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf1a"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "2e6ae88c455aa9a43fda3d3bbaf64458f3c0ee63",
+  "fields": {
+    "raison_soc": "L'Aromatik",
+    "geo_shape": {
+      "coordinates": [
+        0.6146818,
+        44.2034182
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert du mardi au dimanche. Fermé le samedi midi.",
+    "code_posta": 47000,
+    "adresse_2": "68 rue Richard Coeur de Lion",
+    "longitude": 0.6146818,
+    "geo_point_2d": [
+      44.2034182,
+      0.6146818
+    ],
+    "decription": "A quelques pas de la mairie d?Agen, au milieu des ruelles médiévales, L?Aromatik vous invite à venir découvrir ses spécialités dont le risotto de Saint-Jacques et le suprême de pigeonneau. Pendant la période estivale, le restaurant installe sa",
+    "latitude": 44.2034182,
+    "commune": "AGEN",
+    "telephon": "+33 5 53 68 81 03"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6146818,
+      44.2034182
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 3
+    }
+  ],
+  "heure_ouverture": "15H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf1b"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "c23856c0c09ee9ca045b900dc4a16deeea5fde7a",
+  "fields": {
+    "longitude": 0.532322,
+    "mail": "info@chateaudelassalle.com",
+    "adresse_3": "Brimont",
+    "decription": "Au coeur de la Gascogne, le restaurant du Château de Lassalle vous offre une halte de charme dans une demeure du XVIIIème siècle installée dans un parc de 8 hectares. Découvrez les plats de qualité du chef Didier GATINON  qui vous fait revisiter le",
+    "site_inter": "www.chateaudelassalle.com",
+    "latitude": 44.110689,
+    "marques_et": "Sourire du Lot-et-Garonne",
+    "commune": "LAPLUME",
+    "telephon": "+33 5 53 95 10 58 ou +33 6 22 32 15 49",
+    "raison_soc": "L'Orangerie - Château de Lassalle",
+    "geo_shape": {
+      "coordinates": [
+        0.532322,
+        44.110689
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert d'avril à octobre, tous les jours.\nOuvert de novembre à avril, du lundi au vendredi et le week-end sur réservation pour les groupes.\nFermeture 1 semaine pendant vacances d'hiver et 1 semaine à Noël",
+    "code_posta": 47310,
+    "geo_point_2d": [
+      44.110689,
+      0.532322
+    ]
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.532322,
+      44.110689
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 1
+    }
+  ],
+  "heure_ouverture": "18H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf1c"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "40e9af81a05b06cd0c86bc5de6bebccf912f304f",
+  "fields": {
+    "descriptif": "Menu adulte : de 16 à 30 euros\nMenu enfant (jusqu'à 12 ans) : 10 euros\nA la carte: de 10 à 40 euros\nMenu du terroir Logis : 26 euros",
+    "longitude": 0.6697139999999999,
+    "mail": "tabledantan@yahoo.fr",
+    "decription": "L?hôtel-restaurant La Table d?Antan vous accueille dans ses deux salles aux pierres apparentes. Dans une ambiance conviviale et détendue, la chef Colette Caron cuisine des plats du terroir et vous fait découvrir les saveurs ensoleillées des îles a",
+    "site_inter": "www.table-d-antan-hotel.fr",
+    "marques_et": "Sourire du Lot-et-Garonne",
+    "latitude": 44.185922,
+    "commune": "BON-ENCONTRE",
+    "telephon": "+33 5 53 77 97 00",
+    "raison_soc": "La Table d'Antan",
+    "geo_shape": {
+      "coordinates": [
+        0.6697139999999999,
+        44.185922
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert toute l'année. Fermeture annuelle du 2 au 20 janvier.",
+    "code_posta": 47240,
+    "adresse_2": "41 rue de la République",
+    "geo_point_2d": [
+      44.185922,
+      0.6697139999999999
+    ]
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6697139999999999,
+      44.185922
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 2
+    }
+  ],
+  "heure_ouverture": "14H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf1d"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "b94566e0002604dbf75ac3c27927d14e611aa603",
+  "fields": {
+    "raison_soc": "L'arti show",
+    "geo_shape": {
+      "coordinates": [
+        0.61754938,
+        44.205499299999985
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert toute l'année, du lundi au samedi de 11h à 15h et de 18h à minuit. Fermé le dimanche.",
+    "code_posta": 47000,
+    "descriptif": "Se renseigner.",
+    "adresse_2": "25 rue des Cornières",
+    "longitude": 0.61754938,
+    "geo_point_2d": [
+      44.205499299999985,
+      0.61754938
+    ],
+    "decription": "Eric et Philippe, de retour à Agen, font leur show. Le premier pour les plats salés, le second pour les douceurs. Tombés dans la marmite dans leur jeunesse, les deux compères après avoir vu du pays, sont de retour en terre agenaise pour le plaisir d",
+    "latitude": 44.2054993,
+    "commune": "AGEN",
+    "telephon": "+33 5 53 99 72 62 ou +33 6 42 21 02 78"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.61754938,
+      44.205499299999985
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 2
+    }
+  ],
+  "heure_ouverture": "15H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf1e"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "f62cd49decdd9ac976da7c948382008f70022edf",
+  "fields": {
+    "descriptif": "Se renseigner.",
+    "longitude": 0.6113833,
+    "decription": "Venez vous évader au restaurant l?Escale au Maroc, petit oasis en plein c?ur du centre-ville d?Agen ! Prenez place dans les 4 tentes traditionnelles entourées de palmiers et débordantes de couleurs. Ce lieu festif vous sert le fameux couscous royal",
+    "site_inter": "www.escale-au-maroc.com",
+    "latitude": 44.2033975,
+    "commune": "AGEN",
+    "telephon": "+33 5 53 47 57 47",
+    "raison_soc": "Escale au Maroc",
+    "geo_shape": {
+      "coordinates": [
+        0.6113833,
+        44.2033975
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert tout l'année, du mardi au dimanche midi.",
+    "code_posta": 47000,
+    "adresse_2": "17 avenue du Général De Gaulle",
+    "geo_point_2d": [
+      44.2033975,
+      0.6113833
+    ]
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6113833,
+      44.2033975
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 2
+    }
+  ],
+  "heure_ouverture": "15H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf1f"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "b6b401c4b7da24396339938bb56f6f0f0f1003ca",
+  "fields": {
+    "raison_soc": "La Cigale",
+    "geo_shape": {
+      "coordinates": [
+        0.608347,
+        44.141456
+      ],
+      "type": "Point"
+    },
+    "code_posta": 47310,
+    "adresse_2": "Place du Prieuré",
+    "longitude": 0.608347,
+    "geo_point_2d": [
+      44.141456,
+      0.608347
+    ],
+    "decription": "Située juste en face du prieuré de Moirax, La Cigale propose à sa clientèle, une petite épicerie de dépannage, des casse-croûtes, des petits repas à consommer sur place ou à emporter, glaces, boissons...",
+    "latitude": 44.141456,
+    "commune": "MOIRAX",
+    "telephon": "+33 5 53 99 61 56"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.608347,
+      44.141456
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 3
+    }
+  ],
+  "heure_ouverture": "15H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf20"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "51aed1705c312e156f8d7e63ec9be8b3f3188ba3",
+  "fields": {
+    "raison_soc": "La Palmeraie",
+    "geo_shape": {
+      "coordinates": [
+        0.6049761,
+        44.1929424
+      ],
+      "type": "Point"
+    },
+    "code_posta": 47520,
+    "adresse_2": "34 avenue Michel Ricard",
+    "longitude": 0.6049761,
+    "mail": "brasserie.lapalmeraie@orange.fr",
+    "geo_point_2d": [
+      44.1929424,
+      0.6049761
+    ],
+    "decription": "Jérôme et Cathy vous invitent à passer un moment agréable dans leur brasserie La Palmeraie. Installez vous dans la salle climatisée moderne et lumineuse ou bien en terrasse pour profiter des beaux jours. Les deux cuisiniers de La Palmeraie vous mijo",
+    "site_inter": "http://lapalmeraie-agen.fr",
+    "latitude": 44.1929424,
+    "commune": "LE PASSAGE",
+    "telephon": "+33 5 53 96 19 13"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6049761,
+      44.1929424
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 0
+    }
+  ],
+  "heure_ouverture": "15H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf21"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "67cd35891c7101bef4d3705e5795dbd69226e3db",
+  "fields": {
+    "raison_soc": "Auberge Le Prieuré",
+    "geo_shape": {
+      "coordinates": [
+        0.557821,
+        44.17373
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert du mercredi midi au dimanche midi inclus de 12h30 à 14h et de 20h à 21h30. Fermé du dimanche soir au mardi soir inclus.",
+    "code_posta": 47310,
+    "adresse_2": "Le bourg",
+    "longitude": 0.557821,
+    "geo_point_2d": [
+      44.17373,
+      0.557821
+    ],
+    "decription": "Dans une maison à colombages du XVIIIème siècle, au coeur du village de Moirax, l'Auberge du Prieuré vous invite à déguster une cuisine moderne et surprenante, composée à partir de bons produits de saison. Cuisine vive, fraîche et tranchante.",
+    "site_inter": "http://aubergeduprieuredemoirax.fr/blog/",
+    "latitude": 44.17373,
+    "commune": "MOIRAX",
+    "telephon": "+33 5 53 47 59 55"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.557821,
+      44.17373
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 4
+    }
+  ],
+  "heure_ouverture": "15H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf22"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "f7c5476d9096576ec4d5d567da78708e64a870e4",
+  "fields": {
+    "raison_soc": "Côté Jasmin",
+    "geo_shape": {
+      "coordinates": [
+        0.6113196,
+        44.20297519999998
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert du lundi au dimanche tous les midis, et du vendredi au dimanche tous les soirs.",
+    "code_posta": 47000,
+    "adresse_2": "7 avenue du Général de Gaulle",
+    "longitude": 0.6113196,
+    "geo_point_2d": [
+      44.20297519999998,
+      0.6113196
+    ],
+    "decription": "Situé dans un quartier animé d?Agen près du péristyle du Gravier, le restaurant Côté Jasmin vous offre un accueil convivial et vous invite à déguster sa cuisine de terroir du Sud-ouest. Découvrez ses spécialités dont son foie gras poêlé et",
+    "latitude": 44.2029752,
+    "commune": "AGEN",
+    "telephon": "+33 5 53 67 06 06"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6113196,
+      44.20297519999998
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 3
+    }
+  ],
+  "heure_ouverture": "15H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf23"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "9f9fa04319f31a7558c415ecfce52b4d32dfbcae",
+  "fields": {
+    "raison_soc": "Es Vedra",
+    "geo_shape": {
+      "coordinates": [
+        0.6108686,
+        44.2025196
+      ],
+      "type": "Point"
+    },
+    "code_posta": 47000,
+    "adresse_2": "97 Péristyle du Gravier",
+    "longitude": 0.6108686,
+    "geo_point_2d": [
+      44.2025196,
+      0.6108686
+    ],
+    "decription": "Situé en face du jardin public d?Agen et près des Voies sur Berge, sous des arcades, le restaurant Es Vedra vous accueille en terrasse ou dans sa salle à l?ambiance « lounge ». Dégustez ses tapas, brochettes, salades, cuisine à la plancha et div",
+    "latitude": 44.2025196,
+    "commune": "AGEN",
+    "telephon": "+33 5 53 95 75 07"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6108686,
+      44.2025196
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 0
+    }
+  ],
+  "heure_ouverture": "15H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf24"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "38d8d164198a5a53a6ad2bd3c264528cc2703c42",
+  "fields": {
+    "descriptif": "Menu adulte : de 11 à 13 euros",
+    "longitude": 0.602179,
+    "mail": "lepassage47@orange.fr",
+    "adresse_3": "Gaussens",
+    "decription": "Proche de l?autoroute A62 et d?Agen, Patricia Taddei et son équipe vous accueillent chaleureusement au restaurant Le Passage. Trouvez dans vos assiettes une cuisine traditionnelle, raffinée et copieuse. Le Passage vous propose des menus accompagnés",
+    "site_inter": "www.restaurant-lepassage.fr",
+    "latitude": 44.200867,
+    "commune": "LE PASSAGE",
+    "telephon": "+33 5 53 77 32 40",
+    "raison_soc": "Le Passage",
+    "geo_shape": {
+      "coordinates": [
+        0.602179,
+        44.200867
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert toute l'année, du lundi au vendredi midi et soir et le samedi midi.",
+    "code_posta": 47520,
+    "geo_point_2d": [
+      44.200867,
+      0.602179
+    ]
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.602179,
+      44.200867
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 4
+    }
+  ],
+  "heure_ouverture": "10H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf25"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "7796e239510ba6dc56661554ab7e0a73ebc517b3",
+  "fields": {
+    "descriptif": "Menu adulte : de 23 à 32,50 euros\nMenu enfant : de 6 à 12 euros\nCarte : de 20 à 48 euros",
+    "longitude": 0.6240623,
+    "mail": "restaurant-philippe-vannier@aliceadsl.fr",
+    "decription": "Philippe Vannier vous accueille dans son restaurant au cadre original et intime et aux murs de pierres apparentes, créant une atmosphère feutrée et chaleureuse. Admirez les ?uvres d?art contemporain exposées dans la salle de restauration provenant",
+    "site_inter": "www.philippe-vannier.fr",
+    "latitude": 44.2039384,
+    "commune": "AGEN",
+    "telephon": "+33 5 53 66 63 70",
+    "raison_soc": "Philippe Vannier",
+    "geo_shape": {
+      "coordinates": [
+        0.6240623,
+        44.2039384
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert toute l'année :\n- du mardi au dimanche de 12h à 13h15\n- du lundi au jeudi de 17h30 à 21h\n- vendredi et samedi de 20h à 21h15\nOuvert le dimanche midi uniquement sur réservation 24h à l'avance",
+    "code_posta": 47000,
+    "adresse_2": "66 rue Camille-Desmoulins",
+    "geo_point_2d": [
+      44.2039384,
+      0.6240623
+    ]
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6240623,
+      44.2039384
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 4
+    }
+  ],
+  "heure_ouverture": "15H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf26"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "dbfae4541c411de3fb5abf8debcb28767c1215f1",
+  "fields": {
+    "descriptif": "Menu du jour, le midi (entrée/plat/dessert): 15 euros\nMenu adulte : 25 euros",
+    "longitude": 0.6216387999999999,
+    "decription": "Niché dans une rue piétonne agréable du centre-ville agenais, Céline et Xavier vous invitent à passer un moment convivial au restaurant La Part des Anges. Celui-ci se compose de deux salles au décor raffiné de 15 couverts chacune et d?une terrass",
+    "site_inter": "www.lapartdesanges.eu",
+    "latitude": 44.2060637,
+    "commune": "AGEN",
+    "telephon": "+33 5 53 68 31 00",
+    "raison_soc": "La Part des Anges",
+    "geo_shape": {
+      "coordinates": [
+        0.6216387999999999,
+        44.20606369999999
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert du mardi au samedi de 12h à 14h et de 19h à 21h30.",
+    "code_posta": 47000,
+    "adresse_2": "14 rue Emile Sentini",
+    "geo_point_2d": [
+      44.20606369999999,
+      0.6216387999999999
+    ]
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6216387999999999,
+      44.20606369999999
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 4
+    }
+  ],
+  "heure_ouverture": "15H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf27"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "3f219440d61097c890186556024fcf0a877090af",
+  "fields": {
+    "descriptif": "Menu : de 14,50 euros (le midi uniquement) à 29 euros euros\nA la carte : a partir de 20 euros\nMen enfant : 8 euros",
+    "longitude": 0.6441101,
+    "mail": "contact@latrille.com",
+    "decription": "Sylvie et Michel Latrille vous accueillent dans leur restaurant Le 6 de Michel Latrille, situé au 3ème étage d?un immeuble moderne avec une vue dégagée sur Boé. Profitez de sa salle lumineuse, au décor de loft et aux murs entièrement vitrés. De",
+    "site_inter": "www.latrille.com",
+    "latitude": 44.1749628,
+    "commune": "BOE",
+    "telephon": "+33 5 53 66 10 05",
+    "raison_soc": "Le 6 de Michel Latrille",
+    "geo_shape": {
+      "coordinates": [
+        0.6441101,
+        44.1749628
+      ],
+      "type": "Point"
+    },
+    "code_posta": 47550,
+    "adresse_2": "6 rue Albert Ferasse",
+    "geo_point_2d": [
+      44.1749628,
+      0.6441101
+    ]
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6441101,
+      44.1749628
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 0
+    }
+  ],
+  "heure_ouverture": "14H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf28"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "be74b078d128aa717c78430e5bc123e2aec1f955",
+  "fields": {
+    "descriptif": "Menu adulte : de 13,90 à 21,90 euros\nMenu enfant : 10 euros",
+    "longitude": 0.6255469,
+    "mail": "leperigord47@free.fr",
+    "decription": "Non loin de la gare d?Agen et du canal de Garonne, l?hôtel-restaurant Le Périgord vous fait découvrir les saveurs du Sud-ouest. Sur la table du Périgord, goûtez les produits qui font la réputation gastronomique du Lot-et-Garonne. \nL?hôtel met ?",
+    "site_inter": "www.leperigord47.com",
+    "latitude": 44.2053416,
+    "commune": "AGEN",
+    "telephon": "+33 5 53 77 55 77",
+    "raison_soc": "Le Périgord",
+    "geo_shape": {
+      "coordinates": [
+        0.6255469,
+        44.2053416
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert toute l'année.",
+    "code_posta": 47000,
+    "adresse_2": "42 cours du 14 juillet",
+    "geo_point_2d": [
+      44.2053416,
+      0.6255469
+    ]
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6255469,
+      44.2053416
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 0
+    }
+  ],
+  "heure_ouverture": "15H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf29"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "ad1057049c649f2180fcdfb455aa7b789ce3c532",
+  "fields": {
+    "raison_soc": "Bar Restaurant L'Escale",
+    "geo_shape": {
+      "coordinates": [
+        0.48339307000000004,
+        44.2146249
+      ],
+      "type": "Point"
+    },
+    "code_posta": 47310,
+    "adresse_2": "1 place de l'Hôtel de Ville",
+    "longitude": 0.48339307000000004,
+    "mail": "farez.jean-luc@orange.fr",
+    "geo_point_2d": [
+      44.2146249,
+      0.48339307000000004
+    ],
+    "decription": "Jean-Luc et Francine Farez vous invitent à faire une pause gourmande dans leur bar-restaurant L?Escale. Dégustez une cuisine simple et copieuse et goûtez aux pizzas de la maison sur place ou à emporter. En été, savourez des salades bien garnies su",
+    "latitude": 44.2146249,
+    "commune": "SERIGNAC-SUR-GARONNE",
+    "telephon": "+33 5 53 95 38 79"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.48339307000000004,
+      44.2146249
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 3
+    }
+  ],
+  "heure_ouverture": "10H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf2a"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "360922d95bc35745f85a9feaaf1bc7f0ddfb35ac",
+  "fields": {
+    "raison_soc": "Brasserie des Platanes en Brulhois",
+    "geo_shape": {
+      "coordinates": [
+        0.737374,
+        44.1154214
+      ],
+      "type": "Point"
+    },
+    "code_posta": 47220,
+    "adresse_2": "Place Raoul Rogale",
+    "longitude": 0.737374,
+    "geo_point_2d": [
+      44.1154214,
+      0.737374
+    ],
+    "latitude": 44.1154214,
+    "commune": "CAUDECOSTE",
+    "telephon": "+33 5 53 87 37 12"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.737374,
+      44.1154214
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 3
+    }
+  ],
+  "heure_ouverture": "15H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf2b"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "3091fbdf5d3e2edc86ff949c24b52b78e029f53d",
+  "fields": {
+    "raison_soc": "Côté Sud",
+    "geo_shape": {
+      "coordinates": [
+        0.6123775,
+        44.197936599999984
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert toute l'année.",
+    "code_posta": 47000,
+    "adresse_2": "36 Cours Gambetta",
+    "longitude": 0.6123775,
+    "geo_point_2d": [
+      44.197936599999984,
+      0.6123775
+    ],
+    "decription": "Côté Sud vous invite à venir déguster les saveurs ensoleillées du Sud, de la Provence à la Gascogne. Dans une ambiance décontractée, goûtez à une cuisine raffinée et simple. Le restaurant propose des plats faits maison préparés avec des prod",
+    "latitude": 44.1979366,
+    "commune": "AGEN",
+    "telephon": "+33 5 53 96 16 67"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6123775,
+      44.197936599999984
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 4
+    }
+  ],
+  "heure_ouverture": "10H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf2c"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "d51841ad1b587e8cda00fb3fcf591ab3fb7718dc",
+  "fields": {
+    "raison_soc": "Illi'co pizza",
+    "geo_shape": {
+      "coordinates": [
+        0.56183,
+        44.173985
+      ],
+      "type": "Point"
+    },
+    "code_posta": 47310,
+    "longitude": 0.56183,
+    "adresse_3": "Zone artisanale Larrouy",
+    "geo_point_2d": [
+      44.173985,
+      0.56183
+    ],
+    "decription": "Illi?co Pizza vous invite à faire une halte à l'italienne. Découvrez un grand choix de pizzas et de spécialités d'Italie. Illi'co Pizza vous propose également toutes sortes de salades, de paninis et de desserts à emporter. Profitez dès les beaux",
+    "latitude": 44.173985,
+    "commune": "ROQUEFORT",
+    "telephon": "+33 5 53 95 25 70"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.56183,
+      44.173985
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 4
+    }
+  ],
+  "heure_ouverture": "10H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf2d"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "fdd7a1a0c47af116179a4544a65d82e77c7f88cd",
+  "fields": {
+    "raison_soc": "Le Joy's",
+    "geo_shape": {
+      "coordinates": [
+        0.6441101,
+        44.1749628
+      ],
+      "type": "Point"
+    },
+    "code_posta": 47550,
+    "adresse_2": "Galerie marchande Géant Casino",
+    "longitude": 0.6441101,
+    "mail": "mjmorlay@hotmail.fr",
+    "adresse_3": "Gardes",
+    "geo_point_2d": [
+      44.1749628,
+      0.6441101
+    ],
+    "decription": "Découvrez la cuisine de type bistrot du café-restaurant Le Joy?s, situé dans la galerie marchande du Géant Casino de Boé. Goûtez à une cuisine généreuse de qualité élaborée avec des produits du marché. Le Joy?s vous garantit un accueil cha",
+    "latitude": 44.1749628,
+    "commune": "BOE",
+    "telephon": "+33 5 53 96 10 00"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6441101,
+      44.1749628
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 4
+    }
+  ],
+  "heure_ouverture": "15H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf2e"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "c31b9b5896f32bc4736a2f41ca20585d3a070d4f",
+  "fields": {
+    "descriptif": "Menu du jour : 13,50 euros",
+    "longitude": 0.72778778,
+    "mail": "lestand47@orange.fr",
+    "adresse_3": "Peyroche",
+    "decription": "Alexandra Barrère vous accueille dans son restaurant qui jouxte la piste de karting.",
+    "latitude": 44.1057229,
+    "commune": "CAUDECOSTE",
+    "telephon": "+33 5 53 47 49 09",
+    "raison_soc": "Le stand",
+    "geo_shape": {
+      "coordinates": [
+        0.72778778,
+        44.10572289999999
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert toute l'année, le midi. Fermé le mardi. Possibilité repas de groupe le soir sur réservation.",
+    "code_posta": 47220,
+    "adresse_2": "Route d'Astaffort",
+    "geo_point_2d": [
+      44.10572289999999,
+      0.72778778
+    ]
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.72778778,
+      44.10572289999999
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 0
+    }
+  ],
+  "heure_ouverture": "15H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf2f"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "e91a89892f6fb31b68356a6685f3ccfbe0f667df",
+  "fields": {
+    "longitude": 0.6180358,
+    "mail": "patrick.pinard4@wanadoo.fr",
+    "decription": "Dans une maison bourgeoise datant du XIXème siècle, Marie et Patrick Pinard vous accueillent dans le cadre chaleureux de leur restaurant Le Washington. Trouvez votre bonheur parmi les délicieux plats à la carte et les menus, dont le « Menu Gourmand",
+    "site_inter": "www.le-washington.com",
+    "latitude": 44.2013204,
+    "commune": "AGEN",
+    "telephon": "+33 5 53 48 25 50",
+    "raison_soc": "Le Washington",
+    "geo_shape": {
+      "coordinates": [
+        0.6180358,
+        44.201320399999986
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert toute l'année, du lundi au vendredi midi et soir.",
+    "code_posta": 47000,
+    "adresse_2": "7 cours Washington",
+    "geo_point_2d": [
+      44.201320399999986,
+      0.6180358
+    ]
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6180358,
+      44.201320399999986
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 4
+    }
+  ],
+  "heure_ouverture": "18H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf30"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "f253f8daef5d1697133253b2c7450ec9bbea7db9",
+  "fields": {
+    "descriptif": "Non communiqués",
+    "longitude": 0.6251540999999999,
+    "mail": "agen@campanile.fr",
+    "adresse_3": "ZAC Agen sud",
+    "decription": "A 3 km du centre-ville et de la gare d?Agen, le restaurant du Campanile vous propose une cuisine régionale ou traditionnelle, légère ou familiale. Découvrez un large choix entre les formules-buffet, les menus (enfant, gourmand ?) et les plats à la",
+    "site_inter": "www.campanile-agen.fr",
+    "marques_et": "Sourire du Lot-et-Garonne",
+    "latitude": 44.2035321,
+    "commune": "AGEN",
+    "telephon": "+33 5 53 68 08 08",
+    "raison_soc": "Campanile",
+    "geo_shape": {
+      "coordinates": [
+        0.6251540999999999,
+        44.2035321
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert toute l'année, tous les jours sauf le 24 décembre.",
+    "code_posta": 47000,
+    "adresse_2": "Avenue André Tissidre",
+    "geo_point_2d": [
+      44.2035321,
+      0.6251540999999999
+    ]
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6251540999999999,
+      44.2035321
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 3
+    }
+  ],
+  "heure_ouverture": "14H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf31"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "3380ad879ca99c71d98bca81d02c38030544a35e",
+  "fields": {
+    "raison_soc": "La Bodéga",
+    "geo_shape": {
+      "coordinates": [
+        0.6122782999999999,
+        44.2041529
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert toute l'année, du mardi au dimanche. Fermé le lundi.",
+    "code_posta": 47000,
+    "adresse_2": "7 bis place Jasmin",
+    "longitude": 0.6122782999999999,
+    "geo_point_2d": [
+      44.2041529,
+      0.6122782999999999
+    ],
+    "decription": "Près du centre-ville d?Agen, venez découvrir la cuisine espagnole du restaurant La Bodéga. Dans sa salle au décor faisant référence aux corridas ou bien sur sa terrasse, dégustez toutes sortes de poissons et de viandes grillés à la plancha et g",
+    "latitude": 44.2041529,
+    "commune": "AGEN",
+    "telephon": "+33 5 53 48 26 83"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6122782999999999,
+      44.2041529
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 4
+    }
+  ],
+  "heure_ouverture": "14H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf32"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "96f15ef7a794ee5b1b95add31741ff71f9498d5c",
+  "fields": {
+    "raison_soc": "Les Allées",
+    "geo_shape": {
+      "coordinates": [
+        0.660689,
+        44.134673
+      ],
+      "type": "Point"
+    },
+    "code_posta": 47390,
+    "descriptif": "Menu adulte : de 12,50 à 27 euros\nMenu enfant : 6 euros",
+    "adresse_2": "4 avenue Jean Coulon",
+    "longitude": 0.660689,
+    "mail": "bardesallees@neuf.fr",
+    "geo_point_2d": [
+      44.134673,
+      0.660689
+    ],
+    "latitude": 44.134673,
+    "commune": "LAYRAC",
+    "telephon": "+33 5 53 87 00 44"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.660689,
+      44.134673
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 1
+    }
+  ],
+  "heure_ouverture": "10H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf33"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "6e326e8fd4225dcb9d483681b6c3ccdcfe6317a1",
+  "fields": {
+    "raison_soc": "Au bon accueil",
+    "geo_shape": {
+      "coordinates": [
+        0.65048933,
+        44.0632744
+      ],
+      "type": "Point"
+    },
+    "code_posta": 47220,
+    "adresse_2": "Place de la Craste",
+    "longitude": 0.65048933,
+    "geo_point_2d": [
+      44.0632744,
+      0.65048933
+    ],
+    "decription": "Valérie vous accueille à Astaffort et vous fait découvrir leur cuisine traditionnelle élaborée à partir de produits locaux. Aux beaux jours profitez de la terrasse ...",
+    "latitude": 44.0632744,
+    "commune": "ASTAFFORT",
+    "telephon": "+33 5 53 67 11 52"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.65048933,
+      44.0632744
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 0
+    }
+  ],
+  "heure_ouverture": "15H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf34"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "ff1ae928822b7e3aa6a650ed2c33e749c0f0d287",
+  "fields": {
+    "raison_soc": "La Traviata",
+    "geo_shape": {
+      "coordinates": [
+        0.6251540999999999,
+        44.2035321
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert toute l'année, du mardi midi au samedi soir.",
+    "code_posta": 47000,
+    "adresse_2": "39 avenue Charles De Gaulle",
+    "longitude": 0.6251540999999999,
+    "geo_point_2d": [
+      44.2035321,
+      0.6251540999999999
+    ],
+    "decription": "A deux pas des voies sur Berge d?Agen situées le long de la Garonne, le restaurant La Traviata vous accueille chaleureusement pour une pause repas à l?italienne. En salle ou bien sur la petite terrasse aux beaux jours, La Traviata vous sert une cuisi",
+    "latitude": 44.2035321,
+    "commune": "AGEN",
+    "telephon": "+33 5 53 47 46 79"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6251540999999999,
+      44.2035321
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 0
+    }
+  ],
+  "heure_ouverture": "18H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf35"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "f3f4d24470b13216a5cc2f707dbf12bf78159720",
+  "fields": {
+    "longitude": 0.6296615999999999,
+    "mail": "lavignauxvins@bbox.fr",
+    "decription": "Isabelle et Gérald Meslier vous accueillent chaleureusement dans leur restaurant La Vign?aux Vins, situé à l?est du célèbre stade Armandie d?Agen. Avec ou sans réservation, venez découvrir leur nouvelle carte proposant les fameux hamburgers mai",
+    "site_inter": "www.lavigneauxvins.com",
+    "latitude": 44.1906693,
+    "commune": "AGEN",
+    "telephon": "+33 5 53 66 51 85",
+    "raison_soc": "La Vign'aux Vins",
+    "geo_shape": {
+      "coordinates": [
+        0.6296615999999999,
+        44.1906693
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert toute l'année, tous les midis du lundi au vendredi. Les soirs du jeudi au samedi.",
+    "code_posta": 47000,
+    "adresse_2": "19 boulevard Edouard Lacour",
+    "geo_point_2d": [
+      44.1906693,
+      0.6296615999999999
+    ]
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6296615999999999,
+      44.1906693
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 4
+    }
+  ],
+  "heure_ouverture": "14H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf36"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "b378a3bbb58c9a322fc59d54c5e37bf0d714b54d",
+  "fields": {
+    "descriptif": "Menu adulte : de 23 à 48 euros\nMenu enfant : 14 euros\nMenu du Terroir Logis : 36 euros\nA la carte : de 19 à 28 euros",
+    "longitude": 0.552428,
+    "mail": "contact@colombierdutouron.com",
+    "decription": "En terre de Gascogne, l?hôtel-restaurant Au Colombier du Touron vous présente son univers tout en harmonie, mariage des sens et des saveurs. Le restaurant vous accueille dans ses deux vastes salles lumineuses ouvrant sur le parc et le pigeonnier du XV",
+    "site_inter": "www.colombierdutouron.com",
+    "marques_et": "Qualité Tourisme\nSourire du Lot-et-Garonne",
+    "latitude": 44.201535,
+    "commune": "BRAX",
+    "telephon": "+33 5 53 87 87 91",
+    "raison_soc": "Au Colombier du Touron",
+    "geo_shape": {
+      "coordinates": [
+        0.552428,
+        44.201535
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert toute l'année\nFermeture hebdomadaire le dimanche soir et lundi midi, sauf groupes et séminaires sur réservation",
+    "code_posta": 47310,
+    "adresse_2": "187 avenue des Landes",
+    "geo_point_2d": [
+      44.201535,
+      0.552428
+    ]
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.552428,
+      44.201535
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 4
+    }
+  ],
+  "heure_ouverture": "18H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf37"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "0c4e68a6922443e5f1388506c81fa5f25888b437",
+  "fields": {
+    "raison_soc": "Le 104",
+    "geo_shape": {
+      "coordinates": [
+        0.6197886,
+        44.1967697
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert toute l'année, tous les jours du lundi au dimanche, de 10h à 22h.",
+    "code_posta": 47000,
+    "adresse_2": "106 boulevard de la Liberté",
+    "longitude": 0.6197886,
+    "geo_point_2d": [
+      44.1967697,
+      0.6197886
+    ],
+    "decription": "Le 104 vous accueille chaleureusement et vous invite à savourer sa cuisine traditionnelle. Ce bar-brasserie dispose de deux salles climatisées et d'une grande terrasse fleurie. L'équipe vous propose un menu complet le midi et un menu plus raffiné le",
+    "latitude": 44.1967697,
+    "commune": "AGEN",
+    "telephon": "+33 9 82 33 07 60"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6197886,
+      44.1967697
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 3
+    }
+  ],
+  "heure_ouverture": "10H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf38"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "d1b64b5767829a956b6a1a64e5f83b2855ac81d6",
+  "fields": {
+    "raison_soc": "Le Parc d'Aquitaine",
+    "geo_shape": {
+      "coordinates": [
+        0.634324,
+        44.183278
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert toute l'année du lundi au vendredi, le midi.",
+    "code_posta": 47550,
+    "adresse_2": "Avenue d'Aquitaine",
+    "longitude": 0.634324,
+    "mail": "leparcdaquitaine@gmail.com",
+    "geo_point_2d": [
+      44.183278,
+      0.634324
+    ],
+    "decription": "Installé au coeur du marché aux bestiaux de Boé, le Parc d?Aquitaine vous propose une cuisine du terroir dans une ambiance conviviale. De par sa localisation, ce restaurant vous sert toutes sortes de spécialités de viandes appétissantes.  Découvr",
+    "latitude": 44.183278,
+    "commune": "BOE",
+    "telephon": "+33 5 53 98 19 91"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.634324,
+      44.183278
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 4
+    }
+  ],
+  "heure_ouverture": "15H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf39"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "aedf0794b837418b83aa15472f815a61a3ec3478",
+  "fields": {
+    "raison_soc": "Le Temps de Vivre",
+    "geo_shape": {
+      "coordinates": [
+        -0.443426,
+        45.485517
+      ],
+      "type": "Point"
+    },
+    "code_posta": 47450,
+    "adresse_2": "Blanchard",
+    "longitude": -0.443426,
+    "geo_point_2d": [
+      45.485517,
+      -0.443426
+    ],
+    "decription": "Dans un cadre très agréable à la campagne, Le Temps de Vivre vous propose une cuisine traditionnelle et créative. Le chef ne travaille que des produits frais.",
+    "latitude": 45.485517,
+    "commune": "SAINT-HILAIRE-DE-LUSIGNAN",
+    "telephon": "+33 5 53 67 67 17"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.443426,
+      45.485517
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 1
+    }
+  ],
+  "heure_ouverture": "15H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf3a"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "348f70587d6e977e3e61d1b93e789ca8d6d86d0f",
+  "fields": {
+    "descriptif": "Plat du jour : 10 euros\nMenu du midi, formule du marché : 16 euros (entrée, plat et dessert)\nMenu adulte : 22 euros et menu 31 euros (3 plats)\nMenu Bistrot : 22 euros",
+    "longitude": 0.61522857,
+    "decription": "Près du théâtre Ducourneau d?Agen, Aurélie et toute son équipe vous reçoivent au Bistrot Voltaire dans une ambiance décontractée, à table ou au comptoir. Le Bistrot Voltaire vous propose une cuisine traditionnelle du Sud-ouest ainsi que des pla",
+    "site_inter": "www.bistrotvoltaire.fr",
+    "marques_et": "Maître Restaurateur",
+    "latitude": 44.2037259,
+    "commune": "AGEN",
+    "telephon": "+33 5 53 47 62 42",
+    "raison_soc": "Le Bistrot Voltaire",
+    "geo_shape": {
+      "coordinates": [
+        0.61522857,
+        44.20372589999999
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert toute l'année, du mardi au vendredi, midi et soir et le samedi soir.",
+    "code_posta": 47000,
+    "adresse_2": "45 rue Voltaire",
+    "geo_point_2d": [
+      44.20372589999999,
+      0.61522857
+    ]
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.61522857,
+      44.20372589999999
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 3
+    }
+  ],
+  "heure_ouverture": "14H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf3b"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "279af9c36fc749aba2c414ab4d647cf54b28ec86",
+  "fields": {
+    "raison_soc": "L'Agenais",
+    "geo_shape": {
+      "coordinates": [
+        0.6216980999999999,
+        44.2054264
+      ],
+      "type": "Point"
+    },
+    "code_posta": 47000,
+    "adresse_2": "109 boulevard de la République",
+    "longitude": 0.6216980999999999,
+    "geo_point_2d": [
+      44.2054264,
+      0.6216980999999999
+    ],
+    "latitude": 44.2054264,
+    "commune": "AGEN",
+    "telephon": "+33 5 53 68 09 37"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6216980999999999,
+      44.2054264
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 4
+    }
+  ],
+  "heure_ouverture": "10H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf3c"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "e81cda55fbb6300e87e61d90cccc0a6ca578b0a2",
+  "fields": {
+    "raison_soc": "L'Amandine",
+    "geo_shape": {
+      "coordinates": [
+        0.6204037,
+        44.206106699999985
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert toute l'année, le lundi de 10h30 à 14h30 et du mardi au samedi de 10h30 à 18h30.",
+    "code_posta": 47000,
+    "adresse_2": "46 et 57 rue Molinier",
+    "longitude": 0.6204037,
+    "geo_point_2d": [
+      44.206106699999985,
+      0.6204037
+    ],
+    "decription": "L?Amandine vous offre une halte paisible et gourmande en plein centre-ville, dans une petite rue piétonne près de la cathédrale Saint-Caprais d?Agen. Amandine vous propose 3 ou 4 plats différents par jour selon l?inspiration que lui donnent les pr",
+    "latitude": 44.2061067,
+    "commune": "AGEN",
+    "telephon": "+33 5 53 66 89 33"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6204037,
+      44.206106699999985
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 4
+    }
+  ],
+  "heure_ouverture": "18H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf3d"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "eb3592bd174561dff34c52e3d909c5e1d3e251be",
+  "fields": {
+    "raison_soc": "L'Atelier",
+    "geo_shape": {
+      "coordinates": [
+        0.6175779,
+        44.2019116
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert du lundi midi au samedi soir. Fermé le samedi midi et le dimanche toute la journée.",
+    "code_posta": 47000,
+    "adresse_2": "14 rue du Jeu de Paume",
+    "longitude": 0.6175779,
+    "mail": "restaurant.l.atelier@orange.fr",
+    "geo_point_2d": [
+      44.2019116,
+      0.6175779
+    ],
+    "decription": "Stéphane et Marjorie vous accueillent dans un ancien atelier de menuiserie qu?ils ont transformé en un restaurant chaleureux. Pendant que Marjorie en cuisine vous régale de ses plats originaux, Stéphane prend son rôle de sommelier à c?ur en vous",
+    "latitude": 44.2019116,
+    "commune": "AGEN",
+    "telephon": "+33 5 53 87 89 22"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6175779,
+      44.2019116
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 4
+    }
+  ],
+  "heure_ouverture": "10H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf3e"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "8fd01ced74ff54cce60a429cc58d1a9f034a697f",
+  "fields": {
+    "raison_soc": "Le Vieux Village",
+    "geo_shape": {
+      "coordinates": [
+        0.564107,
+        44.157168
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert toute l'année, du lundi au vendredi.",
+    "code_posta": 47310,
+    "longitude": 0.564107,
+    "adresse_3": "Mestre Marty",
+    "geo_point_2d": [
+      44.157168,
+      0.564107
+    ],
+    "latitude": 44.157168,
+    "commune": "ESTILLAC",
+    "telephon": "+33 5 53 67 62 61"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.564107,
+      44.157168
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 0
+    }
+  ],
+  "heure_ouverture": "15H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf3f"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "c87dc74c39bb6ddd81c4f7255d8cc894af9728f3",
+  "fields": {
+    "raison_soc": "La Claie des Vergers",
+    "geo_shape": {
+      "coordinates": [
+        0.551777,
+        44.203042
+      ],
+      "type": "Point"
+    },
+    "informatio": "Le restaurant est ouvert toute l'année tous les midis du lundi au samedi. Le bar est ouvert du lundi au vendredi de 8h30 à 19h30 et le samedi de 9h à 15h.",
+    "code_posta": 47310,
+    "adresse_2": "2 Centre Commercial",
+    "longitude": 0.551777,
+    "mail": "laclaiedesvergers@orange.fr",
+    "geo_point_2d": [
+      44.203042,
+      0.551777
+    ],
+    "decription": "A 10 minutes à l?ouest d?Agen, Cédric et Emmanuelle Groult vous accueillent dans leur restaurant La Claie des Vergers situé à Brax. Pour votre déjeuner, profitez du buffet à volonté proposant entrées, plats garnis et desserts gourmands. La Clai",
+    "latitude": 44.203042,
+    "commune": "BRAX",
+    "telephon": "+33 5 53 68 64 66"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.551777,
+      44.203042
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 2
+    }
+  ],
+  "heure_ouverture": "15H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf40"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "420e079b75704a903f6f7f9e9768cf0d5e0bf1b5",
+  "fields": {
+    "raison_soc": "Le Restaurant de l'Hippodrome",
+    "geo_shape": {
+      "coordinates": [
+        0.604959,
+        44.175892
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert le jour des courses et possibilité d'ouverture sur réservation pour les repas de groupe.",
+    "code_posta": 47520,
+    "adresse_2": "La Garenne",
+    "longitude": 0.604959,
+    "geo_point_2d": [
+      44.175892,
+      0.604959
+    ],
+    "latitude": 44.175892,
+    "commune": "LE PASSAGE",
+    "telephon": "+33 5 53 96 23 66 ou +33 5 53 96 51 06"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.604959,
+      44.175892
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 2
+    }
+  ],
+  "heure_ouverture": "14H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf41"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "0356ce572ce89e595259022e2102a741ae33c675",
+  "fields": {
+    "raison_soc": "Les Copains d'abord",
+    "geo_shape": {
+      "coordinates": [
+        0.61771906,
+        44.20558409999999
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert du mardi au samedi. Fermé le dimanche et le lundi. Possibilité d'accueillir les groupes le dimanche sur réservation.",
+    "code_posta": 47000,
+    "adresse_2": "24 rue des Cornières",
+    "longitude": 0.61771906,
+    "geo_point_2d": [
+      44.20558409999999,
+      0.61771906
+    ],
+    "decription": "Situé dans la rue historique des Cornières, le restaurant Les Copains d?abord vous prépare une cuisine traditionnelle ensoleillée du Sud-ouest. Découvrez les saveurs de la Gascogne en toute convivialité et simplicité. Le restaurant dispose d?une",
+    "latitude": 44.2055841,
+    "commune": "AGEN",
+    "telephon": "+33 5 53 87 73 06"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.61771906,
+      44.20558409999999
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 3
+    }
+  ],
+  "heure_ouverture": "15H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf42"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "7abb876492f18c2dbdd5f2d036747aec6681ad6f",
+  "fields": {
+    "raison_soc": "Viva la Plancha",
+    "geo_shape": {
+      "coordinates": [
+        0.6251540999999999,
+        44.2035321
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert toute l'année",
+    "code_posta": 47000,
+    "adresse_2": "3 rue Emile Santini",
+    "longitude": 0.6251540999999999,
+    "geo_point_2d": [
+      44.2035321,
+      0.6251540999999999
+    ],
+    "decription": "Venez découvrir une cuisine pleine de soleil au restaurant Viva La Plancha ! Avec une très forte inspiration espagnole, l?équipe vous sert ses spécialités de viandes rouges et de gambas grillées à la plancha, tapas, charcuteries espagnoles et aut",
+    "site_inter": "www.restaurant-viva-la-plancha.fr",
+    "latitude": 44.2035321,
+    "commune": "AGEN",
+    "telephon": "+33 5 53 48 32 61"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6251540999999999,
+      44.2035321
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 0
+    }
+  ],
+  "heure_ouverture": "10H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf43"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "19a0f4ba85ce94ad01a9d62430f8b475dd8fe679",
+  "fields": {
+    "raison_soc": "Café du Centre",
+    "geo_shape": {
+      "coordinates": [
+        0.6715981999999999,
+        44.186005299999984
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert du lundi au vendredi midi",
+    "code_posta": 47240,
+    "descriptif": "Menu adulte : 13 euros",
+    "adresse_2": "25 rue de la République",
+    "longitude": 0.6715981999999999,
+    "geo_point_2d": [
+      44.186005299999984,
+      0.6715981999999999
+    ],
+    "decription": "A 10 minutes d?Agen, le Café du Centre de Bon-Encontre vous réserve un accueil chaleureux. Goûtez une cuisine de qualité élaborée avec des produits frais. Le Café du Centre vous sert des plats copieux et savoureux.",
+    "latitude": 44.1860053,
+    "commune": "BON-ENCONTRE",
+    "telephon": "+33 5 53 96 77 61"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6715981999999999,
+      44.186005299999984
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 3
+    }
+  ],
+  "heure_ouverture": "18H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf44"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "504dd8b8e0b24b19f400d2d7336835fc11bec314",
+  "fields": {
+    "raison_soc": "Le Cauquil",
+    "geo_shape": {
+      "coordinates": [
+        0.611518,
+        44.203288
+      ],
+      "type": "Point"
+    },
+    "code_posta": 47000,
+    "descriptif": "Menu adulte : 22 euros\nA la carte : de 25 euros à 30 euros\nMenu enfant : 5 euros",
+    "adresse_2": "9 avenue du Général De Gaulle",
+    "longitude": 0.611518,
+    "geo_point_2d": [
+      44.203288,
+      0.611518
+    ],
+    "decription": "A deux pas des Voies sur Berge de la Garonne et de l?Esplanade du Gravier, Le Cauquil vous propose une cuisine traditionnelle et régionale à base de produits frais. Ce restaurant agenais de type bistrot-brasserie sert des menus et des plats préparés",
+    "latitude": 44.203288,
+    "commune": "AGEN",
+    "telephon": "+33 5 53 48 02 34"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.611518,
+      44.203288
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 2
+    }
+  ],
+  "heure_ouverture": "15H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf45"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "73e26101819c5699f2b409db43b2e1838c3a2513",
+  "fields": {
+    "descriptif": "Menu adulte : de 19 à 46 euros\nMenu enfant : 9 euros",
+    "longitude": 0.61454984,
+    "mail": "contact@lenostradamus.com",
+    "decription": "Amandine et Miguel vous invitent à venir goûter leur cuisine contemporaine dans une ancienne ferme du XVème siècle. Située à 3 min du centre-ville d?Agen, cette demeure de caractère accueillit Michel de Nostre-Dame \"Nostradamus\" et sa famille. \nI",
+    "site_inter": "www.lenostradamus.com",
+    "marques_et": "Maître Restaurateur",
+    "latitude": 44.2211733,
+    "commune": "AGEN",
+    "telephon": "+33 5 53 47 01 02",
+    "raison_soc": "Le Nostradamus",
+    "geo_shape": {
+      "coordinates": [
+        0.61454984,
+        44.2211733
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert toute l'année, du mardi au dimanche, de 12h30 à 13h30 et de 19h30 à 21h15.\nFermé le dimanche soir et le lundi",
+    "code_posta": 47000,
+    "adresse_2": "40 rue des Nitiobriges",
+    "geo_point_2d": [
+      44.2211733,
+      0.61454984
+    ]
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.61454984,
+      44.2211733
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 0
+    }
+  ],
+  "heure_ouverture": "14H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf46"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "d03d6e5a7cd77d9964ac759a2a2bda883db4f3b0",
+  "fields": {
+    "longitude": 0.60304641,
+    "mail": "aquitaine@brithotel.fr",
+    "adresse_3": "Gaussens",
+    "decription": "Situé aux portes d?Agen, le restaurant traditionnel du Brit Hôtel Agen peut accueillir jusqu'à 50 couverts. Le chef adapte sa cuisine en fonction des produits de saison, et vous invite à découvrir le terroir du Sud-ouest. En salle ou bien dans le j",
+    "site_inter": "http://hotel-agen.brithotel.fr",
+    "latitude": 44.1638587,
+    "commune": "LE PASSAGE",
+    "telephon": "+33 5 53 96 36 35",
+    "raison_soc": "Brit Hôtel Agen",
+    "geo_shape": {
+      "coordinates": [
+        0.60304641,
+        44.1638587
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert toute l'année, du lundi au vendredi midi et le weekend sur réservation pour les groupes.",
+    "code_posta": 47520,
+    "adresse_2": "Centre hôtelier et routier",
+    "geo_point_2d": [
+      44.1638587,
+      0.60304641
+    ]
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.60304641,
+      44.1638587
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 2
+    }
+  ],
+  "heure_ouverture": "14H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf47"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "9c72346f17db454dcfab1c25cfb5d589f9ba9a2c",
+  "fields": {
+    "descriptif": "Formules midi : de 8,95 à 10,95  euros\nMenus enfant : de 5,70 à 6,70 euros\nMenu soir et we : de 14,50 à 17,90 euros\nMini : 6,95 euros et max : 21,60 euros",
+    "longitude": 0.6437904,
+    "mail": "restaurant@lapatarie-agen.com",
+    "decription": "Le décor est chaleureux, l'ambiance champêtre pour ce restaurant offrant des recettes variées autour de la pomme de terre.\nLe spectacle est partout. Vos yeux n'en reviendront pas et vos papilles non plus.\nInstallez-vous, soufflez, prenez le temps de c",
+    "site_inter": "www.lapataterie.fr",
+    "latitude": 44.1662345,
+    "commune": "BOE",
+    "telephon": "+33 5 53 99 57 48",
+    "raison_soc": "La Pataterie",
+    "geo_shape": {
+      "coordinates": [
+        0.6437904,
+        44.1662345
+      ],
+      "type": "Point"
+    },
+    "informat_1": "Ouvert toute l'année, du lundi au dimanche.\n- du dimanche au jeudi de 11h45 à 14h et de 19h à 21h30\n- vendredi et samedi de 11h45 à 14h et de 19h à 22h30",
+    "informatio": "Ouvert toute l'année, du lundi au dimanche.\n- du dimanche au jeudi de 11h45 à 14h et de 19h à 21h30\n- vendredi et samedi de 11h45 à 14h et de 19h à 22h30",
+    "code_posta": 47550,
+    "adresse_2": "Avenue de la Capelette D17",
+    "geo_point_2d": [
+      44.1662345,
+      0.6437904
+    ]
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6437904,
+      44.1662345
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 1
+    }
+  ],
+  "heure_ouverture": "10H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf48"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "fc7c7d339eef31454a6fec56427939a08315719c",
+  "fields": {
+    "raison_soc": "Le Patio",
+    "geo_shape": {
+      "coordinates": [
+        0.552055,
+        44.21937289999999
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert toute l'année, du lundi au samedi, le midi.",
+    "code_posta": 47450,
+    "descriptif": "Menu du jour en semaine : 12 euros\nA la carte : de 16,50 à 24 euros\nMenu enfant (jusqu'à 10 ans) : 11 euros",
+    "adresse_2": "677 avenue de la Libération",
+    "longitude": 0.552055,
+    "mail": "lepatio47@orange.fr",
+    "geo_point_2d": [
+      44.21937289999999,
+      0.552055
+    ],
+    "latitude": 44.2193729,
+    "commune": "COLAYRAC-SAINT-CIRQ",
+    "telephon": "+33 5 53 95 59 06"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.552055,
+      44.21937289999999
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 3
+    }
+  ],
+  "heure_ouverture": "14H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf49"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "244f6504cef1d1bfa2e0ff8759dc94e1ac115436",
+  "fields": {
+    "longitude": 0.63185,
+    "mail": "imperialboe@gmail.com",
+    "decription": "L?Impérial Buffet de Boé vous invite à découvrir ses plats asiatiques, que vous pouvez déguster à volonté ! Son buffet présente plus de 50 plats, entrées et desserts pour un voyage culinaire au coeur de l?Asie. L?Impérial Buffet offre la pos",
+    "site_inter": "www.imperial-buffet.fr",
+    "latitude": 44.1863303,
+    "commune": "BOE",
+    "telephon": "+33 5 53 47 37 37",
+    "raison_soc": "Impérial Buffet",
+    "geo_shape": {
+      "coordinates": [
+        0.63185,
+        44.1863303
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert toute l'année, du lundi au dimanche midi. Fermé le dimanche soir.",
+    "code_posta": 47550,
+    "adresse_2": "21 avenue de Bigorre",
+    "geo_point_2d": [
+      44.1863303,
+      0.63185
+    ]
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.63185,
+      44.1863303
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 4
+    }
+  ],
+  "heure_ouverture": "10H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf4a"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "04e27f84c7574b466591b023b103cc5abec3aea5",
+  "fields": {
+    "longitude": 0.616734,
+    "mail": "latable.darmandie@orange.fr",
+    "decription": "Situé à l?entrée d?Agen et très facile d?accès, La Table d?Armandie vous propose une cuisine naturelle et de qualité. Le chef Michel Dussau et son équipe professionnelle abordent de façon moderne la gastronomie traditionnelle et inventent une",
+    "site_inter": "http://latabledarmandie.fr/",
+    "latitude": 44.185491999999996,
+    "marques_et": "Maître Restaurateur\nSourire du Lot-et-Garonne",
+    "commune": "AGEN",
+    "telephon": "+33 5 53 96 15 15",
+    "raison_soc": "La Table d'Armandie",
+    "geo_shape": {
+      "coordinates": [
+        0.616734,
+        44.185491999999996
+      ],
+      "type": "Point"
+    },
+    "code_posta": 47000,
+    "adresse_2": "1350 Avenue du Midi",
+    "geo_point_2d": [
+      44.185491999999996,
+      0.616734
+    ]
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.616734,
+      44.185491999999996
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 4
+    }
+  ],
+  "heure_ouverture": "10H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf4b"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "cb51590463b69b07003540227d7cd92a59f9e58f",
+  "fields": {
+    "raison_soc": "Le Toucan",
+    "geo_shape": {
+      "coordinates": [
+        0.5606251,
+        44.1758437
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert toute l'année, du lundi au samedi de 7h à 21h.",
+    "code_posta": 47310,
+    "adresse_2": "2 route d'Agen",
+    "longitude": 0.5606251,
+    "geo_point_2d": [
+      44.1758437,
+      0.5606251
+    ],
+    "decription": "Le Toucan est un bar-restaurant situé au coeur du village de Roquefort et à deux pas du célèbre parc d'attraction Walibi Sud Ouest. L'équipe du restaurant accueille les repas de groupe sur réservation. Dégustez une cuisine traditionnelle de qualit",
+    "latitude": 44.1758437,
+    "commune": "ROQUEFORT",
+    "telephon": "+33 5 53 67 23 29"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.5606251,
+      44.1758437
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 3
+    }
+  ],
+  "heure_ouverture": "15H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf4c"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "924f33d0c053082fab01fcca6b880d843fd9bfa1",
+  "fields": {
+    "descriptif": "Menu adulte : de 12 à 23 euros\nCarte : de 7 à 30 euros\nMenu enfant : 7 euros",
+    "longitude": 0.5307265,
+    "mail": "frederic.boyer.laplume@wanadoo.fr",
+    "decription": "A 20 minutes au sud d?Agen, le Restaurant de la Paix vous propose une cuisine traditionnelle dans une ambiance familiale. Entrez et contemplez la vue imprenable sur les alentours (à plus de 50km à la ronde par beau temps !). Le Restaurant de la Paix a",
+    "latitude": 44.1120922,
+    "commune": "LAPLUME",
+    "telephon": "+33 5 53 95 96 35",
+    "raison_soc": "Restaurant de la Paix",
+    "geo_shape": {
+      "coordinates": [
+        0.5307265,
+        44.1120922
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert toute l'année :\n- du mardi au samedi de 12h à 13h30 et de 19h à 20h30\n- dimanche de 12h à 13h30\nLe bar est ouvert de 7h30 à 21h.\nFermé le lundi",
+    "code_posta": 47310,
+    "adresse_2": "13 Grande Rue",
+    "geo_point_2d": [
+      44.1120922,
+      0.5307265
+    ]
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.5307265,
+      44.1120922
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 4
+    }
+  ],
+  "heure_ouverture": "10H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf4d"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "a9b8cb21fdce4e12dc000d6127fd24f4863cc91b",
+  "fields": {
+    "raison_soc": "Restaurant de la Seoune",
+    "geo_shape": {
+      "coordinates": [
+        0.699241,
+        44.169064
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert toute l'année, du lundi au samedi midi et soir.",
+    "code_posta": 47240,
+    "adresse_2": "RN 113",
+    "longitude": 0.699241,
+    "adresse_3": "Au Peintre",
+    "geo_point_2d": [
+      44.169064,
+      0.699241
+    ],
+    "latitude": 44.169064,
+    "commune": "LAFOX",
+    "telephon": "+33 5 53 87 58 28"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.699241,
+      44.169064
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 4
+    }
+  ],
+  "heure_ouverture": "18H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf4e"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "b5bc1376b857a68b4a8f0230bf4d972714686563",
+  "fields": {
+    "descriptif": "Formule du midi à 6,90 euros et 8,90 euros\nA la carte repas à moins de 15 euros",
+    "longitude": 0.6168043,
+    "mail": "begicepian@neuf.fr",
+    "decription": "Située à deux pas du boulevard piétonnier et de la place des Laitiers, sous les arcades de la pittoresque rue des Cornières, la crêperie vous accueille dans un cadre agréable et convivial.\nUne salle de restaurant à la déco typiquement bretonne, c",
+    "latitude": 44.2050554,
+    "commune": "AGEN",
+    "telephon": "+33 5 53 66 52 37",
+    "raison_soc": "Crêperie des Cornières",
+    "geo_shape": {
+      "coordinates": [
+        0.6168043,
+        44.205055399999985
+      ],
+      "type": "Point"
+    },
+    "informat_1": "Ouvert toute l'année du mardi au samedi :\n- du mardi au jeudi de 12h à 14h30 et de 19h à 21h30\n- le vendredi : de 12h à 14h30 et de 19h à 22h30\n- le samedi : de 12h à 15h et de 19h à 23h30\nFermé entre Noël et le jour de l'An.",
+    "informatio": "Ouvert toute l'année du mardi au samedi :\n- du mardi au jeudi de 12h à 14h30 et de 19h à 21h30\n- le vendredi : de 12h à 14h30 et de 19h à 22h30\n- le samedi : de 12h à 15h et de 19h à 23h30\nFermé entre Noël et le jour de l'An.",
+    "code_posta": 47000,
+    "descript_1": "Formule du midi à 6,90 euros et 8,90 euros\nA la carte repas à moins de 15 euros",
+    "adresse_2": "5 rue des Cornières",
+    "geo_point_2d": [
+      44.205055399999985,
+      0.6168043
+    ]
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6168043,
+      44.205055399999985
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 2
+    }
+  ],
+  "heure_ouverture": "18H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf4f"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "7f16b12ea96648f7ca64714301491285fb6ac9f7",
+  "fields": {
+    "raison_soc": "Al Dente",
+    "geo_shape": {
+      "coordinates": [
+        0.6187444,
+        44.20586139999999
+      ],
+      "type": "Point"
+    },
+    "code_posta": 47000,
+    "adresse_2": "11 rue Molinier",
+    "longitude": 0.6187444,
+    "geo_point_2d": [
+      44.20586139999999,
+      0.6187444
+    ],
+    "decription": "Dans un environnement agréable à deux pas de la cathédrale Saint-Caprais d?Agen, venez vous évader au c?ur de l?Italie le temps d?un repas. Al Dente vous propose de nombreuses spécialités italiennes et vous garantit une cuisine de qualité éla",
+    "latitude": 44.2058614,
+    "commune": "AGEN",
+    "telephon": "+33 5 53 48 03 32"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6187444,
+      44.20586139999999
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 4
+    }
+  ],
+  "heure_ouverture": "18H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf50"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "946a01aa7e9214131ad174ca7b9475924b9b8c56",
+  "fields": {
+    "raison_soc": "La Table des Cornières",
+    "geo_shape": {
+      "coordinates": [
+        0.6175065,
+        44.20532149999999
+      ],
+      "type": "Point"
+    },
+    "code_posta": 47000,
+    "adresse_2": "14 rue des Cornières",
+    "longitude": 0.6175065,
+    "geo_point_2d": [
+      44.20532149999999,
+      0.6175065
+    ],
+    "decription": "Le chef Moïse Rajaonarivelo vous invite à goûter sa cuisine traditionnelle modernisée et influencée par ses origines malgaches à La Table des Cornières. Situé dans l?agréable rue historique des Cornières, le restaurant dispose de deux salles,",
+    "latitude": 44.2053215,
+    "marques_et": "Maître Restaurateur",
+    "commune": "AGEN",
+    "telephon": "+33 5 53 66 60 24"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6175065,
+      44.20532149999999
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 0
+    }
+  ],
+  "heure_ouverture": "10H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf51"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "23454b4bbdb50817d822692114f09aa439a91c47",
+  "fields": {
+    "longitude": 0.6175138,
+    "mail": "laubade@live.fr",
+    "decription": "La crêperie-restaurant L?Aubade vous accueille en plein coeur du vieil Agen, au pied de l?église Notre-Dame-du-Bourg datant du XIIIème siècle. Découvrez la cuisine savoureuse et raffinée du chef Pascal Piotrowski, maître restaurateur, préparée",
+    "site_inter": "www.creperieresto-laubade.com",
+    "latitude": 44.2032695,
+    "marques_et": "Maître Restaurateur",
+    "commune": "AGEN",
+    "telephon": "+33 5 53 66 63 83",
+    "raison_soc": "L'Aubade",
+    "geo_shape": {
+      "coordinates": [
+        0.6175138,
+        44.2032695
+      ],
+      "type": "Point"
+    },
+    "code_posta": 47000,
+    "adresse_2": "3 rue des Droits de L'Homme",
+    "geo_point_2d": [
+      44.2032695,
+      0.6175138
+    ]
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6175138,
+      44.2032695
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 4
+    }
+  ],
+  "heure_ouverture": "14H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf52"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "368919c0f9148ca10bc05336dfbff0b8d15e0c01",
+  "fields": {
+    "descriptif": "Menu adulte : de 12,75 à 22 euros\nMenu enfant : 8,75 euros\nCarte : de 6,50 à 27,50 euros",
+    "longitude": 0.6205298,
+    "mail": "contact@stimotel.com",
+    "decription": "Le restaurant L?Escapade vous propose sa cuisine authentique au grès des saisons avec des produits du terroir du Lot-et-Garonne. Formules à partir de 12,75 euros , menus, carte, plat du jour.  Nous proposons également  pour réception apéritif, cock",
+    "site_inter": "www.stimotel.com",
+    "marques_et": "Qualité Tourisme\nSourire du Lot-et-Garonne",
+    "latitude": 44.2036959,
+    "commune": "AGEN",
+    "telephon": "+33 5 53 47 58 58",
+    "raison_soc": "L'Escapade",
+    "geo_shape": {
+      "coordinates": [
+        0.6205298,
+        44.2036959
+      ],
+      "type": "Point"
+    },
+    "informatio": "ouverture du lundi au vendredi, de 12h à 14h et de 19h à 22h.\nOuvert les samedis et dimanches uniquement sur réservation.\nFermeture annuelle du 24 décembre au 1er janvier.",
+    "code_posta": 47000,
+    "adresse_2": "105 boulevard du Président Carnot",
+    "geo_point_2d": [
+      44.2036959,
+      0.6205298
+    ]
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6205298,
+      44.2036959
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 3
+    }
+  ],
+  "heure_ouverture": "15H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf53"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "cf2c182d2b4920d1f1c353bdc7130f40b15a67db",
+  "fields": {
+    "descriptif": "Menu dégustation : de 86 à 88 euros\nMenu adulte (le midi en semaine) : 27 euros \nMenu adulte (déjeuner et dîner) : 50 euros\nMenu enfant : 17 euros",
+    "longitude": 0.6132306,
+    "mail": "contact@restaurant-mariottat.com",
+    "decription": "Au coeur du vieil Agen, à deux pas de l'Eglise Musée des Jacobins. Calme et confort pour savourer une cuisine de terroir contemporain au gré du temps. Etoilé michelin 1 étoile. 3 toques Gault-Millau. Maître Restaurateur de France et Maître Cuisini",
+    "site_inter": "www.restaurant-mariottat.com",
+    "marques_et": "Maître Restaurateur\nSourire du Lot-et-Garonne",
+    "latitude": 44.2018173,
+    "commune": "AGEN",
+    "telephon": "+33 5 53 77 99 77",
+    "raison_soc": "Mariottat",
+    "geo_shape": {
+      "coordinates": [
+        0.6132306,
+        44.20181729999999
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert toute l'année, de 12h à 13h30 et 20h à 21h15 sauf samedi midi, dimanche soir et lundi. Fermé le mercredi midi du 1er novembre au 30 avril.\nFermeture : 1 semaine à Pâques, 1 semaine à Toussaint, 1 semaine à Noël.",
+    "code_posta": 47000,
+    "adresse_2": "25 rue Louis Vivent",
+    "geo_point_2d": [
+      44.20181729999999,
+      0.6132306
+    ]
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6132306,
+      44.20181729999999
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 2
+    }
+  ],
+  "heure_ouverture": "14H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf54"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "2a9677f9046ad114acd1d99fff713f366d64869a",
+  "fields": {
+    "descriptif": "Formules : 18,90 euros et 25 euros\nA la carte : à partir de 10 euros\nMenu enfant (jusqu'à 12 ans) : 12 euros",
+    "longitude": 0.6441101,
+    "adresse_3": "Château d'Allot",
+    "decription": "Dans un écrin de verdure aux portes d?Agen, La Table d?Allot vous prépare une cuisine présentant plats traditionnels et terroir du Sud-ouest. Retrouvez dans vos assiettes foie gras, magret de canard et autres terrines aux pruneaux. La terrasse du re",
+    "site_inter": "http://domaine-dallot.fr/",
+    "latitude": 44.1749628,
+    "commune": "BOE",
+    "telephon": "+33 5 53 87 65 69",
+    "raison_soc": "De L'un Allot're",
+    "geo_shape": {
+      "coordinates": [
+        0.6441101,
+        44.1749628
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert toute l'année :\n- en été, le midi, du mardi au dimanche et le soir, du jeudi au samedi\n- en hiver, du mardi au dimanche, uniquement le midi",
+    "code_posta": 47550,
+    "geo_point_2d": [
+      44.1749628,
+      0.6441101
+    ]
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6441101,
+      44.1749628
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 2
+    }
+  ],
+  "heure_ouverture": "15H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf55"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "233c5382f3e7683cb070d77669825f09e971bb3c",
+  "fields": {
+    "longitude": 0.623184,
+    "mail": "laboucherie.restaurantagen@gmail.com",
+    "decription": "Situé en face de la gare, le restaurant La Boucherie s?engage à vous servir de la viande de b?uf de qualité. Dans un décor chaleureux s?inspirant de la boucherie traditionnelle, venez déguster nos grillades, nos exclusivités 100% la Boucherie et",
+    "site_inter": "www.la-boucherie.fr",
+    "latitude": 44.207348,
+    "commune": "AGEN",
+    "telephon": "+33 5 53 67 08 60",
+    "raison_soc": "La Boucherie",
+    "geo_shape": {
+      "coordinates": [
+        0.623184,
+        44.207348
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert toute l'année, tous les jours, du dimanche au jeudi de 12h à 14h30 et de 19h à 22h30 et les vendredi et samedi de 12h à 14h30 et de 19h à 23h.",
+    "code_posta": 47000,
+    "adresse_2": "Boulevard Sylvain Dumon",
+    "geo_point_2d": [
+      44.207348,
+      0.623184
+    ]
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.623184,
+      44.207348
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 0
+    }
+  ],
+  "heure_ouverture": "14H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf56"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "6187cae2bd18725a027588dbaa4fdff7f74774cf",
+  "fields": {
+    "raison_soc": "L'Hermine",
+    "geo_shape": {
+      "coordinates": [
+        0.6139582,
+        44.2041041
+      ],
+      "type": "Point"
+    },
+    "code_posta": 47000,
+    "adresse_2": "21 rue Voltaire",
+    "longitude": 0.6139582,
+    "geo_point_2d": [
+      44.2041041,
+      0.6139582
+    ],
+    "decription": "La crêperie L?Hermine se situe dans la rue Voltaire, surnommée la « rue des restaurants » du centre-ville d?Agen. Vous y trouvez un large choix de crêpes et de galettes pour ravir vos papilles. Afin d?élargir sa carte, le Chef vous prépare éga",
+    "latitude": 44.2041041,
+    "commune": "AGEN",
+    "telephon": "+33 5 53 66 14 76"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6139582,
+      44.2041041
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 2
+    }
+  ],
+  "heure_ouverture": "15H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf57"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "e958685d46cfed460f51c951bf2c36101513e5d6",
+  "fields": {
+    "raison_soc": "Asta Pizza",
+    "geo_shape": {
+      "coordinates": [
+        0.6513508100000001,
+        44.06470669999999
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert toute l'année, du mercredi au dimanche de 11h à 13h30 et de 17h à 21h30. Fermé à Noël et jour de l'An.",
+    "code_posta": 47220,
+    "descriptif": "Se renseigner.",
+    "adresse_2": "5 place de l'Hôtel de Ville",
+    "longitude": 0.6513508100000001,
+    "geo_point_2d": [
+      44.06470669999999,
+      0.6513508100000001
+    ],
+    "decription": "Que ce soit pour une pause déjeuner rapide ou l'envie de flâner en terrasse à l'ombre de la superbe halle de la mairie,  Nicole vous accueille tout aussi chaleureusement dans son établissement Asta Pizza.",
+    "latitude": 44.0647067,
+    "commune": "ASTAFFORT",
+    "telephon": "+33 5 53 68 37 74 ou +33 6 42 99 67 19"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6513508100000001,
+      44.06470669999999
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 4
+    }
+  ],
+  "heure_ouverture": "18H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf58"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "6d6cd38edf525b30b004240b8ddabb975b9393c4",
+  "fields": {
+    "descriptif": "Menu adulte : de 12 à 32 euros\nMenu enfant : 9,50 euros\nCarte : de 8 à 18 euros\nMenu du jour : à partir de 12 euros",
+    "longitude": 0.64988,
+    "mail": "aubergedubrulhois@gmail.com",
+    "decription": "Entre Brulhois et Gascogne, c?est à Astaffort que L?Auberge du Brulhois vous accueille dans une ambiance familiale et chaleureuse. Dégustez une cuisine de qualité inspirée du terroir où s?accordent toutes les saveurs du Lot-et-Garonne. Le chef co",
+    "site_inter": "www.aubergedubrulhois.com",
+    "marques_et": "Maître Restaurateur\nQualité Tourisme\nSourire du Lot-et-Garonne",
+    "latitude": 44.06502,
+    "commune": "ASTAFFORT",
+    "telephon": "+33 5 53 66 04 79",
+    "raison_soc": "L'Auberge du Brulhois",
+    "geo_shape": {
+      "coordinates": [
+        0.64988,
+        44.06502
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert du 05 janvier au 20 décembre.\nFermeture annuelle du restaurant, du 20 décembre au 5 janvier 2016.",
+    "code_posta": 47220,
+    "adresse_2": "3 avenue d'Agen",
+    "geo_point_2d": [
+      44.06502,
+      0.64988
+    ]
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.64988,
+      44.06502
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 1
+    }
+  ],
+  "heure_ouverture": "10H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf59"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "9334ae33f7e6dedf2018ca8594b9655d9af04ae9",
+  "fields": {
+    "raison_soc": "Le Grand Café Foy",
+    "geo_shape": {
+      "coordinates": [
+        0.6118923,
+        44.204061199999984
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert du lundi au dimanche de 7h à 2h.",
+    "code_posta": 47000,
+    "adresse_2": "22 avenue du Général De Gaulle",
+    "longitude": 0.6118923,
+    "mail": "grandcafefoyagen@orange.fr",
+    "geo_point_2d": [
+      44.204061199999984,
+      0.6118923
+    ],
+    "decription": "Appartenant à l?un des piliers de l?équipe de rugby d?Agen, Philippe Piacentini, Le Grand Café Foy se remplit des amateurs de ce sport installés autour de son grand écran les jours de matchs. Venez prendre un café ou bien vous restaurer dans la",
+    "latitude": 44.2040612,
+    "commune": "AGEN",
+    "telephon": "+33 5 53 48 13 84"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6118923,
+      44.204061199999984
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 1
+    }
+  ],
+  "heure_ouverture": "15H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf5a"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "59fdc698694683329b73ca00acd7284cd58a256a",
+  "fields": {
+    "raison_soc": "Le Margoton",
+    "geo_shape": {
+      "coordinates": [
+        0.6141319,
+        44.2030217
+      ],
+      "type": "Point"
+    },
+    "code_posta": 47000,
+    "adresse_2": "52 rue Richard Coeur de Lion",
+    "longitude": 0.6141319,
+    "mail": "contact@lemargoton.com",
+    "geo_point_2d": [
+      44.2030217,
+      0.6141319
+    ],
+    "decription": "Situé près de l?église des Jacobins, en plein centre-ville d?Agen, Le Margoton vous accueille pour une pause gastronomique, entre authenticité et originalité. Frédérique Fabre en cuisine prépare vos plats en ajoutant une touche d?inventivité",
+    "site_inter": "www.lemargoton.com",
+    "latitude": 44.2030217,
+    "commune": "AGEN",
+    "telephon": "+33 5 53 48 11 55"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6141319,
+      44.2030217
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 1
+    }
+  ],
+  "heure_ouverture": "15H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf5b"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "5916447c3e655bd5496abc23506866ebe2965803",
+  "fields": {
+    "raison_soc": "Les Recettes de Mamie",
+    "geo_shape": {
+      "coordinates": [
+        0.6381581,
+        44.177775899999986
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert toute l'année, du lundi au vendredi midi et soir. Le weekend sur réservation pour les repas de groupe.",
+    "code_posta": 47550,
+    "adresse_2": "16 rue Jean Jaurès",
+    "longitude": 0.6381581,
+    "adresse_3": "ZA Artigueloube",
+    "geo_point_2d": [
+      44.177775899999986,
+      0.6381581
+    ],
+    "decription": "Situé à deux pas d?Agen, venez trouver une cuisine authentique chez Les Recettes de Mamie. Découvrez des plats cuisinés du Sud-ouest faits maison, sans colorant ni conservateur. Un large choix de menus vous renvoie en enfance en retrouvant les recet",
+    "latitude": 44.1777759,
+    "commune": "BOE",
+    "telephon": "+33 5 53 87 96 08"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6381581,
+      44.177775899999986
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 1
+    }
+  ],
+  "heure_ouverture": "15H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf5c"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "4ab34cef32bdc94b63f28aaf006a07eeff2a815b",
+  "fields": {
+    "raison_soc": "Café des Arts",
+    "geo_shape": {
+      "coordinates": [
+        0.6159034999999999,
+        44.2029371
+      ],
+      "type": "Point"
+    },
+    "code_posta": 47000,
+    "adresse_2": "2 rue de Cessac",
+    "longitude": 0.6159034999999999,
+    "geo_point_2d": [
+      44.2029371,
+      0.6159034999999999
+    ],
+    "decription": "Le Café des Arts vous accueille près d?une place historique agenaise pleine de charme, situé en face la mairie et à deux pas du théâtre Ducourneau et du musée des Beaux-Arts. Claude et Bernard vous invitent à vous y arrêter boire un café, pren",
+    "latitude": 44.2029371,
+    "commune": "AGEN",
+    "telephon": "+33 5 53 66 01 49"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.6159034999999999,
+      44.2029371
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 4
+    }
+  ],
+  "heure_ouverture": "15H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf5d"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "75d6bd1beaa9447c3f94de8c5b2aa403786e9b65",
+  "fields": {
+    "longitude": 0.62088389,
+    "mail": "pxagen@gmail.com",
+    "adresse_3": "Agen",
+    "decription": "La Grande Brasserie de la gare d'Agen a ré-ouvert ses portes en juin dernier, entièrement rénovée, dans un cadre art déco et raffiné. Ce nouveau lieu de style Brasserie parisienne vous accueille dans une ambiance confortable.\nCôté fourneaux, le C",
+    "latitude": 44.207897,
+    "commune": "AGEN",
+    "telephon": "+33 5 53 67 17 37",
+    "raison_soc": "La Grande Brasserie",
+    "geo_shape": {
+      "coordinates": [
+        0.62088389,
+        44.207897
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert toute l'année, tous les jours, de 6 heures à 23 heures.",
+    "code_posta": 47000,
+    "adresse_2": "1 place Rabelais",
+    "geo_point_2d": [
+      44.207897,
+      0.62088389
+    ]
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.62088389,
+      44.207897
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 2
+    }
+  ],
+  "heure_ouverture": "14H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf5e"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "fbe20cc863643b4fbf55e4ba0282602f84806fbe",
+  "fields": {
+    "raison_soc": "La Table en Brulhois",
+    "geo_shape": {
+      "coordinates": [
+        0.78316748,
+        44.128156199999985
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert du lundi midi au dimanche soir. Fermé le mercredi soir. Fermé le 25 décembre.",
+    "code_posta": 47220,
+    "adresse_2": "Place de la Batellerie",
+    "longitude": 0.78316748,
+    "mail": "latableen.brulhois@me.com",
+    "geo_point_2d": [
+      44.128156199999985,
+      0.78316748
+    ],
+    "decription": "Dans le petit village de Saint-Sixte situé sur les bords de Garonne, Isabelle et son équipe de ''la Table en Brulhois'' vous accueillent avec convivialité pour vous faire découvrir une cuisine traditionnelle du Sud-Ouest. En été, profitez de sa ter",
+    "latitude": 44.1281562,
+    "commune": "SAINT-SIXTE",
+    "telephon": "+33 5 53 47 82 29"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.78316748,
+      44.128156199999985
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 4
+    }
+  ],
+  "heure_ouverture": "14H"
+},{
+  "_id": {
+    "$oid": "63e4eec860da87a0137fdf5f"
+  },
+  "datasetid": "restaurants0",
+  "recordid": "961c8df4faa32a4b3d5455f5e3ec1f306eadefb6",
+  "fields": {
+    "raison_soc": "L'Auteuil",
+    "geo_shape": {
+      "coordinates": [
+        0.5939089,
+        44.1935774
+      ],
+      "type": "Point"
+    },
+    "informatio": "Ouvert toute l'année, du mardi au dimanche de 8h30 à 22h. Fermé le lundi.",
+    "code_posta": 47520,
+    "adresse_2": "3 route de Nérac",
+    "longitude": 0.5939089,
+    "geo_point_2d": [
+      44.1935774,
+      0.5939089
+    ],
+    "decription": "L'Auteuil vous accueil avec une ambiance familiale et conviviale. Françoise et Jean-Claude vous feront partager leurs cuisine familiale.",
+    "latitude": 44.1935774,
+    "commune": "LE PASSAGE",
+    "telephon": "+33 5 53 95 88 64"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.5939089,
+      44.1935774
+    ]
+  },
+  "record_timestamp": "2015-08-05T14:59:02+02:00",
+  "avis": [
+    {
+      "note": 2
+    }
+  ],
+  "heure_ouverture": "10H"
+}]
